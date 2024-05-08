@@ -1,0 +1,15 @@
+datos de la tabla:
+usuario
+correo
+edad
+sexo
+estado civil
+contraseña
+
+cuando el usuario ingrese debe mostrar una vista con información X de un sitio web para una floreria
+
+formularios de log in y registro
+
+usar html, css y php
+
+cuando inicie sesión tiene que mostrar el nombre del usuario
